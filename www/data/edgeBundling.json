@@ -1,0 +1,2662 @@
+[
+  {
+    "name": "UA",
+    "count": 59046,
+    "mktgs": [
+      "AV",
+      "BR",
+      "JK",
+      "LH",
+      "LO",
+      "LR",
+      "MS",
+      "OS",
+      "OZ",
+      "SA",
+      "SK",
+      "TA",
+      "TP"
+    ]
+  },
+  {
+    "name": "DL",
+    "count": 51859,
+    "mktgs": [
+      "AF",
+      "KL",
+      "OK",
+      "UX",
+      "VA"
+    ]
+  },
+  {
+    "name": "AA",
+    "count": 39216,
+    "mktgs": [
+      "AB",
+      "AY",
+      "BA",
+      "CX",
+      "EY",
+      "FJ",
+      "JJ",
+      "LY",
+      "MX",
+      "QF",
+      "QR",
+      "RJ"
+    ]
+  },
+  {
+    "name": "LH",
+    "count": 25120,
+    "mktgs": [
+      "A3",
+      "AC",
+      "AI",
+      "AV",
+      "CA",
+      "DT",
+      "EN",
+      "ET",
+      "J2",
+      "JJ",
+      "KM",
+      "LG",
+      "LO",
+      "LX",
+      "MS",
+      "NH",
+      "NZ",
+      "OS",
+      "OU",
+      "SA",
+      "SK",
+      "SN",
+      "SQ",
+      "TG",
+      "TP",
+      "UA"
+    ]
+  },
+  {
+    "name": "UX",
+    "count": 15509,
+    "mktgs": [
+      "AF",
+      "AM",
+      "AR",
+      "AZ",
+      "DL",
+      "EY",
+      "KL",
+      "NT",
+      "OK",
+      "RO",
+      "SU",
+      "SV",
+      "VN"
+    ]
+  },
+  {
+    "name": "SK",
+    "count": 11335,
+    "mktgs": [
+      "A3",
+      "AC",
+      "BT",
+      "CA",
+      "ET",
+      "FI",
+      "FV",
+      "JP",
+      "LH",
+      "LO",
+      "LX",
+      "MS",
+      "OS",
+      "OU",
+      "OV",
+      "SA",
+      "SQ",
+      "SU",
+      "TG",
+      "TK",
+      "UA"
+    ]
+  },
+  {
+    "name": "AF",
+    "count": 7076,
+    "mktgs": [
+      "2J",
+      "3S",
+      "9W",
+      "AM",
+      "AR",
+      "AY",
+      "AZ",
+      "BE",
+      "CY",
+      "CZ",
+      "DL",
+      "DT",
+      "EY",
+      "FB",
+      "JL",
+      "KE",
+      "KL",
+      "KQ",
+      "LX",
+      "ME",
+      "MK",
+      "MU",
+      "OK",
+      "OS",
+      "PS",
+      "RO",
+      "SU",
+      "SV",
+      "TN",
+      "UX",
+      "VN",
+      "XK",
+      "XM"
+    ]
+  },
+  {
+    "name": "QR",
+    "count": 6834,
+    "mktgs": [
+      "AA",
+      "BA",
+      "CX",
+      "J2",
+      "JL",
+      "ME",
+      "MH",
+      "NH",
+      "OZ",
+      "US",
+      "WY"
+    ]
+  },
+  {
+    "name": "AM",
+    "count": 5369,
+    "mktgs": [
+      "AF",
+      "AV",
+      "DL",
+      "JJ",
+      "KL",
+      "OK",
+      "UX"
+    ]
+  },
+  {
+    "name": "US",
+    "count": 4941,
+    "mktgs": [
+      "A3",
+      "AB",
+      "AV",
+      "BA",
+      "BR",
+      "JJ",
+      "LR",
+      "OU",
+      "QR",
+      "RJ",
+      "SA",
+      "SQ",
+      "TA",
+      "TP"
+    ]
+  },
+  {
+    "name": "BA",
+    "count": 4908,
+    "mktgs": [
+      "AA",
+      "AB",
+      "AY",
+      "CX",
+      "IB",
+      "JL",
+      "KL",
+      "LA",
+      "QF",
+      "QR",
+      "RJ",
+      "S7",
+      "SN",
+      "US"
+    ]
+  },
+  {
+    "name": "A3",
+    "count": 3946,
+    "mktgs": [
+      "AC",
+      "EY",
+      "LH",
+      "MS",
+      "OA",
+      "S7",
+      "SK",
+      "SN",
+      "SQ",
+      "TK",
+      "TP",
+      "UA",
+      "US"
+    ]
+  },
+  {
+    "name": "G3",
+    "count": 3874,
+    "mktgs": [
+      "AF",
+      "KL",
+      "QR"
+    ]
+  },
+  {
+    "name": "JJ",
+    "count": 3696,
+    "mktgs": [
+      "AA",
+      "AC",
+      "AM",
+      "CA",
+      "LA",
+      "LH",
+      "LX",
+      "NH",
+      "SA",
+      "US"
+    ]
+  },
+  {
+    "name": "VA",
+    "count": 3624,
+    "mktgs": [
+      "AB",
+      "DL",
+      "EY",
+      "MK",
+      "SA",
+      "SQ"
+    ]
+  },
+  {
+    "name": "OS",
+    "count": 3528,
+    "mktgs": [
+      "AC",
+      "AF",
+      "AI",
+      "B2",
+      "CA",
+      "ET",
+      "IR",
+      "J2",
+      "KC",
+      "KM",
+      "LG",
+      "LH",
+      "LO",
+      "LX",
+      "MS",
+      "NH",
+      "OU",
+      "PS",
+      "RO",
+      "SK",
+      "SN",
+      "TD",
+      "TG",
+      "TP",
+      "UA",
+      "UN",
+      "YM"
+    ]
+  },
+  {
+    "name": "AC",
+    "count": 3473,
+    "mktgs": [
+      "A3",
+      "AV",
+      "BD",
+      "JJ",
+      "JK",
+      "LH",
+      "LO",
+      "LR",
+      "ME",
+      "MS",
+      "OS",
+      "OZ",
+      "SA",
+      "SK",
+      "SQ",
+      "TA",
+      "TG",
+      "TP",
+      "UL"
+    ]
+  },
+  {
+    "name": "TK",
+    "count": 3215,
+    "mktgs": [
+      "A3",
+      "AT",
+      "EY",
+      "GA",
+      "JK",
+      "JP",
+      "KC",
+      "LO",
+      "MS",
+      "OU",
+      "OZ",
+      "SK",
+      "SQ",
+      "TG",
+      "TP"
+    ]
+  },
+  {
+    "name": "AB",
+    "count": 2966,
+    "mktgs": [
+      "AA",
+      "AY",
+      "BA",
+      "BT",
+      "EY",
+      "HM",
+      "HU",
+      "IB",
+      "IG",
+      "JL",
+      "JU",
+      "RJ",
+      "S7",
+      "US",
+      "VA"
+    ]
+  },
+  {
+    "name": "KL",
+    "count": 2846,
+    "mktgs": [
+      "AF",
+      "AM",
+      "AR",
+      "AZ",
+      "CI",
+      "CM",
+      "CZ",
+      "DL",
+      "DT",
+      "EY",
+      "FV",
+      "GA",
+      "JU",
+      "KE",
+      "KQ",
+      "MH",
+      "MU",
+      "OK",
+      "PS",
+      "RO",
+      "SU",
+      "SV",
+      "UX",
+      "VE",
+      "VN",
+      "XM"
+    ]
+  },
+  {
+    "name": "NZ",
+    "count": 2814,
+    "mktgs": [
+      "CX",
+      "EY",
+      "LH",
+      "MX",
+      "NF",
+      "OZ",
+      "SA",
+      "SB",
+      "SQ",
+      "TG"
+    ]
+  },
+  {
+    "name": "A5",
+    "count": 2754,
+    "mktgs": [
+      "AF",
+      "AZ",
+      "DB",
+      "KL",
+      "XK"
+    ]
+  },
+  {
+    "name": "AY",
+    "count": 2680,
+    "mktgs": [
+      "AA",
+      "AB",
+      "AF",
+      "BA",
+      "CA",
+      "CX",
+      "FI",
+      "IB",
+      "JL",
+      "MH",
+      "OK",
+      "PS",
+      "QF",
+      "S7",
+      "SU",
+      "TF",
+      "TP"
+    ]
+  },
+  {
+    "name": "AZ",
+    "count": 2444,
+    "mktgs": [
+      "AF",
+      "AM",
+      "AP",
+      "BT",
+      "CT",
+      "DL",
+      "EY",
+      "FB",
+      "JU",
+      "KL",
+      "ME",
+      "MU",
+      "SV",
+      "TP",
+      "UL",
+      "UX",
+      "VN",
+      "YM"
+    ]
+  },
+  {
+    "name": "QF",
+    "count": 2333,
+    "mktgs": [
+      "9W",
+      "AA",
+      "AY",
+      "BA",
+      "CZ",
+      "EK",
+      "JL",
+      "JQ",
+      "LA",
+      "MU",
+      "PG",
+      "SA",
+      "SB",
+      "TN"
+    ]
+  },
+  {
+    "name": "TP",
+    "count": 2182,
+    "mktgs": [
+      "A3",
+      "AC",
+      "AY",
+      "AZ",
+      "CA",
+      "EK",
+      "EY",
+      "LH",
+      "LO",
+      "LX",
+      "MS",
+      "NH",
+      "OS",
+      "OU",
+      "PS",
+      "S4",
+      "S7",
+      "SA",
+      "SN",
+      "TG",
+      "TK",
+      "TM",
+      "UA",
+      "US"
+    ]
+  },
+  {
+    "name": "EY",
+    "count": 1633,
+    "mktgs": [
+      "9W",
+      "A3",
+      "AA",
+      "AB",
+      "AF",
+      "AT",
+      "AZ",
+      "BT",
+      "CY",
+      "EI",
+      "GA",
+      "HM",
+      "HU",
+      "JU",
+      "KC",
+      "KL",
+      "KM",
+      "KQ",
+      "ME",
+      "MH",
+      "MU",
+      "NZ",
+      "OA",
+      "OK",
+      "OZ",
+      "PG",
+      "PR",
+      "RT",
+      "S7",
+      "SA",
+      "SN",
+      "SV",
+      "TK",
+      "TP",
+      "UL",
+      "UX",
+      "VA",
+      "VN",
+      "XY"
+    ]
+  },
+  {
+    "name": "AV",
+    "count": 1593,
+    "mktgs": [
+      "2K",
+      "AC",
+      "AM",
+      "CM",
+      "H2",
+      "IB",
+      "LH",
+      "UA",
+      "US"
+    ]
+  },
+  {
+    "name": "LA",
+    "count": 1514,
+    "mktgs": [
+      "BA",
+      "CX",
+      "JJ",
+      "QF"
+    ]
+  },
+  {
+    "name": "AS",
+    "count": 1306,
+    "mktgs": [
+      "AF",
+      "CX",
+      "FJ",
+      "KL",
+      "QF"
+    ]
+  },
+  {
+    "name": "IB",
+    "count": 1243,
+    "mktgs": [
+      "AB",
+      "AT",
+      "AV",
+      "AY",
+      "BA",
+      "LY",
+      "MA",
+      "MX",
+      "OK",
+      "RJ"
+    ]
+  },
+  {
+    "name": "MI",
+    "count": 1186,
+    "mktgs": [
+      "GA",
+      "MH",
+      "PG",
+      "SQ",
+      "VA",
+      "ZH"
+    ]
+  },
+  {
+    "name": "9W",
+    "count": 1161,
+    "mktgs": [
+      "AF",
+      "EY",
+      "GA",
+      "KL",
+      "QF",
+      "SA"
+    ]
+  },
+  {
+    "name": "B6",
+    "count": 1100,
+    "mktgs": [
+      "LH",
+      "QR",
+      "SA"
+    ]
+  },
+  {
+    "name": "OA",
+    "count": 1086,
+    "mktgs": [
+      "A3"
+    ]
+  },
+  {
+    "name": "4U",
+    "count": 957,
+    "mktgs": [
+      "LH",
+      "OS"
+    ]
+  },
+  {
+    "name": "PG",
+    "count": 910,
+    "mktgs": [
+      "AB",
+      "AF",
+      "AY",
+      "BA",
+      "BR",
+      "CX",
+      "EY",
+      "KL",
+      "MI",
+      "QF",
+      "QR"
+    ]
+  },
+  {
+    "name": "CZ",
+    "count": 822,
+    "mktgs": [
+      "AF",
+      "GA",
+      "KL",
+      "KQ",
+      "OZ",
+      "QF"
+    ]
+  },
+  {
+    "name": "LO",
+    "count": 772,
+    "mktgs": [
+      "AC",
+      "B2",
+      "CA",
+      "FB",
+      "JP",
+      "JU",
+      "KF",
+      "LG",
+      "LH",
+      "LX",
+      "NH",
+      "OS",
+      "OZ",
+      "RO",
+      "SK",
+      "SQ",
+      "SU",
+      "TK",
+      "TP",
+      "UA"
+    ]
+  },
+  {
+    "name": "SQ",
+    "count": 736,
+    "mktgs": [
+      "A3",
+      "AC",
+      "AI",
+      "BR",
+      "ET",
+      "GA",
+      "LH",
+      "LO",
+      "LX",
+      "MH",
+      "MI",
+      "MS",
+      "NH",
+      "OZ",
+      "SA",
+      "SK",
+      "TK",
+      "UN",
+      "US",
+      "VA",
+      "VS"
+    ]
+  },
+  {
+    "name": "SU",
+    "count": 734,
+    "mktgs": [
+      "AF",
+      "AY",
+      "BT",
+      "FB",
+      "FI",
+      "JU",
+      "KL",
+      "KQ",
+      "LO",
+      "MA",
+      "ME",
+      "OK",
+      "OV",
+      "SK",
+      "UX"
+    ]
+  },
+  {
+    "name": "XK",
+    "count": 725,
+    "mktgs": [
+      "A5",
+      "AF",
+      "AZ"
+    ]
+  },
+  {
+    "name": "NH",
+    "count": 723,
+    "mktgs": [
+      "BR",
+      "GA",
+      "JJ",
+      "LH",
+      "MS",
+      "OS",
+      "OZ",
+      "QR",
+      "SA",
+      "SK",
+      "SQ",
+      "TG"
+    ]
+  },
+  {
+    "name": "SA",
+    "count": 683,
+    "mktgs": [
+      "9W",
+      "AC",
+      "AI",
+      "B6",
+      "CA",
+      "ET",
+      "EY",
+      "HM",
+      "JE",
+      "JJ",
+      "LH",
+      "LX",
+      "MK",
+      "MS",
+      "NH",
+      "NZ",
+      "OZ",
+      "QF",
+      "SK",
+      "SQ",
+      "TM",
+      "TP",
+      "UA",
+      "US",
+      "VS"
+    ]
+  },
+  {
+    "name": "VX",
+    "count": 668,
+    "mktgs": [
+      "SQ",
+      "VA"
+    ]
+  },
+  {
+    "name": "SN",
+    "count": 658,
+    "mktgs": [
+      "9W",
+      "A3",
+      "AT",
+      "BT",
+      "EY",
+      "JK",
+      "LH",
+      "OS",
+      "SQ",
+      "TG",
+      "TP"
+    ]
+  },
+  {
+    "name": "BE",
+    "count": 655,
+    "mktgs": [
+      "AF",
+      "AY",
+      "BA",
+      "EY",
+      "KL"
+    ]
+  },
+  {
+    "name": "MX",
+    "count": 640,
+    "mktgs": [
+      "AA",
+      "CX",
+      "IB",
+      "JL",
+      "LH",
+      "NZ",
+      "VW"
+    ]
+  },
+  {
+    "name": "MH",
+    "count": 629,
+    "mktgs": [
+      "AY",
+      "BI",
+      "CX",
+      "EY",
+      "GA",
+      "KA",
+      "KL",
+      "MI",
+      "MK",
+      "QR",
+      "RJ",
+      "SQ",
+      "TG",
+      "UL"
+    ]
+  },
+  {
+    "name": "JQ",
+    "count": 627,
+    "mktgs": [
+      "QF"
+    ]
+  },
+  {
+    "name": "HG",
+    "count": 621,
+    "mktgs": [
+      "AA",
+      "AB",
+      "AY",
+      "EY",
+      "IB",
+      "IG",
+      "JL",
+      "RJ",
+      "S7"
+    ]
+  },
+  {
+    "name": "TG",
+    "count": 594,
+    "mktgs": [
+      "EK",
+      "GF",
+      "JL",
+      "LH",
+      "LX",
+      "MD",
+      "MH",
+      "NH",
+      "NZ",
+      "OS",
+      "OZ",
+      "PK",
+      "QV",
+      "SA",
+      "SK",
+      "SN",
+      "TK",
+      "TP"
+    ]
+  },
+  {
+    "name": "LX",
+    "count": 584,
+    "mktgs": [
+      "JJ",
+      "JK",
+      "JP",
+      "LH",
+      "LN",
+      "LO",
+      "LY",
+      "MS",
+      "NH",
+      "OL",
+      "OS",
+      "OU",
+      "SA",
+      "SK",
+      "SQ",
+      "TG",
+      "TP",
+      "UA",
+      "US"
+    ]
+  },
+  {
+    "name": "2C",
+    "count": 579,
+    "mktgs": [
+      "CX",
+      "QR"
+    ]
+  },
+  {
+    "name": "WS",
+    "count": 570,
+    "mktgs": [
+      "AF",
+      "BA",
+      "CX",
+      "KL"
+    ]
+  },
+  {
+    "name": "OU",
+    "count": 531,
+    "mktgs": [
+      "AZ",
+      "LH",
+      "LX",
+      "OS",
+      "SK",
+      "SN",
+      "TK",
+      "TP",
+      "UA"
+    ]
+  },
+  {
+    "name": "S7",
+    "count": 511,
+    "mktgs": [
+      "A3",
+      "AB",
+      "AY",
+      "BA",
+      "CX",
+      "EY",
+      "HG",
+      "LY",
+      "RJ",
+      "TP",
+      "U6",
+      "UL"
+    ]
+  },
+  {
+    "name": "KQ",
+    "count": 496,
+    "mktgs": [
+      "2J",
+      "9W",
+      "AF",
+      "AZ",
+      "CZ",
+      "DT",
+      "EY",
+      "GA",
+      "KE",
+      "KL",
+      "MN",
+      "MU",
+      "PW",
+      "SU",
+      "SW",
+      "TM",
+      "VK",
+      "VN"
+    ]
+  },
+  {
+    "name": "WX",
+    "count": 492,
+    "mktgs": [
+      "AF",
+      "KL"
+    ]
+  },
+  {
+    "name": "CX",
+    "count": 412,
+    "mktgs": [
+      "AA",
+      "AY",
+      "BA",
+      "CA",
+      "HM",
+      "JL",
+      "KA",
+      "LA",
+      "MH",
+      "NZ",
+      "PG",
+      "PR",
+      "QR",
+      "S7",
+      "VN"
+    ]
+  },
+  {
+    "name": "WF",
+    "count": 409,
+    "mktgs": [
+      "SK"
+    ]
+  },
+  {
+    "name": "OZ",
+    "count": 386,
+    "mktgs": [
+      "8M",
+      "AC",
+      "AI",
+      "BR",
+      "CA",
+      "CM",
+      "CZ",
+      "ET",
+      "KC",
+      "NH",
+      "NZ",
+      "QF",
+      "S7",
+      "SA",
+      "SC",
+      "SQ",
+      "TG",
+      "TK",
+      "UA",
+      "UL",
+      "ZH"
+    ]
+  },
+  {
+    "name": "CA",
+    "count": 378,
+    "mktgs": [
+      "B7",
+      "BR",
+      "CX",
+      "JJ",
+      "KA",
+      "LH",
+      "OS",
+      "OZ",
+      "SA",
+      "SK",
+      "TP"
+    ]
+  },
+  {
+    "name": "OK",
+    "count": 374,
+    "mktgs": [
+      "AF",
+      "AM",
+      "CI",
+      "CZ",
+      "DL",
+      "EY",
+      "FB",
+      "HM",
+      "HY",
+      "IB",
+      "J2",
+      "KE",
+      "KL",
+      "QS",
+      "RO",
+      "SU",
+      "TD",
+      "U6",
+      "UX",
+      "VN"
+    ]
+  },
+  {
+    "name": "HV",
+    "count": 372,
+    "mktgs": [
+      "KL"
+    ]
+  },
+  {
+    "name": "ET",
+    "count": 353,
+    "mktgs": [
+      "KP",
+      "LH",
+      "LY",
+      "MS",
+      "OS",
+      "OZ",
+      "SA",
+      "SK",
+      "SQ",
+      "TK"
+    ]
+  },
+  {
+    "name": "UL",
+    "count": 346,
+    "mktgs": [
+      "AC",
+      "AI",
+      "AZ",
+      "EY",
+      "MH",
+      "MJ",
+      "OZ",
+      "S7",
+      "SV",
+      "WY"
+    ]
+  },
+  {
+    "name": "MU",
+    "count": 321,
+    "mktgs": [
+      "AF",
+      "KL",
+      "KQ",
+      "QF"
+    ]
+  },
+  {
+    "name": "VN",
+    "count": 304,
+    "mktgs": [
+      "AF",
+      "AZ",
+      "CX",
+      "EY",
+      "KL",
+      "KQ",
+      "LY",
+      "OK",
+      "QF",
+      "UX"
+    ]
+  },
+  {
+    "name": "3S",
+    "count": 294,
+    "mktgs": [
+      "AF",
+      "SS"
+    ]
+  },
+  {
+    "name": "EK",
+    "count": 290,
+    "mktgs": [
+      "MK",
+      "QF",
+      "SA",
+      "TG",
+      "TP"
+    ]
+  },
+  {
+    "name": "JL",
+    "count": 276,
+    "mktgs": [
+      "AF",
+      "AY",
+      "BA",
+      "CX",
+      "MX",
+      "QF",
+      "QR",
+      "TG"
+    ]
+  },
+  {
+    "name": "PS",
+    "count": 272,
+    "mktgs": [
+      "AF",
+      "KL",
+      "OS",
+      "TP",
+      "U6",
+      "VV"
+    ]
+  },
+  {
+    "name": "MK",
+    "count": 270,
+    "mktgs": [
+      "AF",
+      "AI",
+      "KQ",
+      "MD",
+      "MH",
+      "SA",
+      "UU"
+    ]
+  },
+  {
+    "name": "RO",
+    "count": 268,
+    "mktgs": [
+      "AF",
+      "BT",
+      "FB",
+      "JU",
+      "KL",
+      "ME",
+      "OK",
+      "OS",
+      "RJ",
+      "SN",
+      "UX"
+    ]
+  },
+  {
+    "name": "KA",
+    "count": 266,
+    "mktgs": [
+      "CA",
+      "CX",
+      "MH",
+      "S7"
+    ]
+  },
+  {
+    "name": "JE",
+    "count": 255,
+    "mktgs": [
+      "SA"
+    ]
+  },
+  {
+    "name": "BT",
+    "count": 236,
+    "mktgs": [
+      "A9",
+      "AB",
+      "AF",
+      "AZ",
+      "B2",
+      "EY",
+      "HY",
+      "J2",
+      "KL",
+      "OK",
+      "OS",
+      "PS",
+      "RO",
+      "SK",
+      "SN",
+      "SU",
+      "UN"
+    ]
+  },
+  {
+    "name": "EI",
+    "count": 229,
+    "mktgs": [
+      "BA",
+      "EY",
+      "KL"
+    ]
+  },
+  {
+    "name": "6X",
+    "count": 210,
+    "mktgs": [
+      "2X",
+      "2Y",
+      "6Y",
+      "7S",
+      "7X",
+      "8X"
+    ]
+  },
+  {
+    "name": "SS",
+    "count": 207,
+    "mktgs": [
+      "DN",
+      "TX"
+    ]
+  },
+  {
+    "name": "O6",
+    "count": 183,
+    "mktgs": [
+      "AV",
+      "TA"
+    ]
+  },
+  {
+    "name": "QS",
+    "count": 181,
+    "mktgs": [
+      "OK"
+    ]
+  },
+  {
+    "name": "TM",
+    "count": 170,
+    "mktgs": [
+      "KQ",
+      "SA"
+    ]
+  },
+  {
+    "name": "LG",
+    "count": 169,
+    "mktgs": [
+      "AF",
+      "LH",
+      "LO",
+      "OS"
+    ]
+  },
+  {
+    "name": "MS",
+    "count": 168,
+    "mktgs": [
+      "A3",
+      "AC",
+      "AI",
+      "CA",
+      "ET",
+      "GF",
+      "IY",
+      "LH",
+      "LX",
+      "MH",
+      "OS",
+      "SA",
+      "SK",
+      "SN",
+      "SQ",
+      "TG",
+      "TK",
+      "TP",
+      "UA"
+    ]
+  },
+  {
+    "name": "VS",
+    "count": 163,
+    "mktgs": [
+      "SA",
+      "SQ",
+      "VA"
+    ]
+  },
+  {
+    "name": "JK",
+    "count": 158,
+    "mktgs": [
+      "AC",
+      "CO",
+      "OU",
+      "SN",
+      "SQ",
+      "TG",
+      "UA"
+    ]
+  },
+  {
+    "name": "TX",
+    "count": 151,
+    "mktgs": [
+      "SS"
+    ]
+  },
+  {
+    "name": "VV",
+    "count": 151,
+    "mktgs": [
+      "FB",
+      "PS",
+      "TG",
+      "U8"
+    ]
+  },
+  {
+    "name": "GA",
+    "count": 146,
+    "mktgs": [
+      "9W",
+      "CI",
+      "CZ",
+      "EY",
+      "KE",
+      "KL",
+      "KQ",
+      "MF",
+      "MH",
+      "MI",
+      "MU",
+      "NH",
+      "SQ"
+    ]
+  },
+  {
+    "name": "JP",
+    "count": 145,
+    "mktgs": [
+      "LH",
+      "LO",
+      "LX",
+      "OS",
+      "SK",
+      "SN",
+      "SU",
+      "TK",
+      "YM"
+    ]
+  },
+  {
+    "name": "WY",
+    "count": 141,
+    "mktgs": [
+      "QR",
+      "RJ",
+      "UL"
+    ]
+  },
+  {
+    "name": "9R",
+    "count": 141,
+    "mktgs": [
+      "AV"
+    ]
+  },
+  {
+    "name": "MT",
+    "count": 141,
+    "mktgs": [
+      "DE"
+    ]
+  },
+  {
+    "name": "VW",
+    "count": 135,
+    "mktgs": [
+      "MX"
+    ]
+  },
+  {
+    "name": "JU",
+    "count": 133,
+    "mktgs": [
+      "AB",
+      "AF",
+      "AZ",
+      "EY",
+      "JA",
+      "JP",
+      "KL",
+      "RO",
+      "SU"
+    ]
+  },
+  {
+    "name": "HM",
+    "count": 131,
+    "mktgs": [
+      "AB",
+      "CX",
+      "EY",
+      "SA"
+    ]
+  },
+  {
+    "name": "S4",
+    "count": 127,
+    "mktgs": [
+      "NT",
+      "TP",
+      "ZI"
+    ]
+  },
+  {
+    "name": "AI",
+    "count": 127,
+    "mktgs": [
+      "LH",
+      "MS",
+      "OZ",
+      "SA"
+    ]
+  },
+  {
+    "name": "VE",
+    "count": 125,
+    "mktgs": [
+      "AF",
+      "AZ"
+    ]
+  },
+  {
+    "name": "AT",
+    "count": 117,
+    "mktgs": [
+      "DT",
+      "EY",
+      "IB",
+      "SN",
+      "SU",
+      "TK"
+    ]
+  },
+  {
+    "name": "AR",
+    "count": 114,
+    "mktgs": [
+      "AF",
+      "KL",
+      "UX"
+    ]
+  },
+  {
+    "name": "KE",
+    "count": 114,
+    "mktgs": [
+      "AF",
+      "GA",
+      "KL",
+      "KQ",
+      "OK",
+      "SV"
+    ]
+  },
+  {
+    "name": "BR",
+    "count": 113,
+    "mktgs": [
+      "CA",
+      "HU",
+      "HX",
+      "NH",
+      "OZ",
+      "SC",
+      "SQ",
+      "US"
+    ]
+  },
+  {
+    "name": "2N",
+    "count": 104,
+    "mktgs": [
+      "SK"
+    ]
+  },
+  {
+    "name": "PC",
+    "count": 97,
+    "mktgs": [
+      "AB",
+      "KL"
+    ]
+  },
+  {
+    "name": "RJ",
+    "count": 87,
+    "mktgs": [
+      "AA",
+      "AB",
+      "GF",
+      "IB",
+      "IG",
+      "MH",
+      "RB",
+      "S7",
+      "US"
+    ]
+  },
+  {
+    "name": "BX",
+    "count": 84,
+    "mktgs": [
+      "OZ"
+    ]
+  },
+  {
+    "name": "TA",
+    "count": 81,
+    "mktgs": [
+      "AC",
+      "AV",
+      "IB",
+      "LH",
+      "UA",
+      "US"
+    ]
+  },
+  {
+    "name": "LY",
+    "count": 76,
+    "mktgs": [
+      "CA",
+      "IB",
+      "LX",
+      "S7",
+      "TG",
+      "VN"
+    ]
+  },
+  {
+    "name": "8Z",
+    "count": 75,
+    "mktgs": [
+      "3Y",
+      "6X",
+      "7S",
+      "9S"
+    ]
+  },
+  {
+    "name": "KM",
+    "count": 75,
+    "mktgs": [
+      "AF",
+      "EY",
+      "LH",
+      "OK",
+      "OS"
+    ]
+  },
+  {
+    "name": "H2",
+    "count": 73,
+    "mktgs": [
+      "AV",
+      "TA"
+    ]
+  },
+  {
+    "name": "2K",
+    "count": 71,
+    "mktgs": [
+      "AV"
+    ]
+  },
+  {
+    "name": "OV",
+    "count": 70,
+    "mktgs": [
+      "AF",
+      "B2",
+      "KL",
+      "SK",
+      "SN",
+      "SU"
+    ]
+  },
+  {
+    "name": "TL",
+    "count": 70,
+    "mktgs": [
+      "QF"
+    ]
+  },
+  {
+    "name": "SV",
+    "count": 68,
+    "mktgs": [
+      "AF",
+      "AZ",
+      "GF",
+      "UX"
+    ]
+  },
+  {
+    "name": "7S",
+    "count": 68,
+    "mktgs": [
+      "3Y",
+      "3Z",
+      "4Z",
+      "5Y",
+      "6X",
+      "6Y",
+      "7N",
+      "7X",
+      "7Z",
+      "8Z",
+      "9S"
+    ]
+  },
+  {
+    "name": "MN",
+    "count": 67,
+    "mktgs": [
+      "KQ"
+    ]
+  },
+  {
+    "name": "SB",
+    "count": 66,
+    "mktgs": [
+      "AF",
+      "KE",
+      "NZ",
+      "QF"
+    ]
+  },
+  {
+    "name": "TN",
+    "count": 65,
+    "mktgs": [
+      "AF",
+      "QF"
+    ]
+  },
+  {
+    "name": "CM",
+    "count": 63,
+    "mktgs": [
+      "AV",
+      "KL",
+      "OZ"
+    ]
+  },
+  {
+    "name": "FJ",
+    "count": 59,
+    "mktgs": [
+      "AA",
+      "CX",
+      "IE",
+      "NZ",
+      "QF"
+    ]
+  },
+  {
+    "name": "NT",
+    "count": 58,
+    "mktgs": [
+      "S4",
+      "UX"
+    ]
+  },
+  {
+    "name": "KP",
+    "count": 56,
+    "mktgs": [
+      "ET"
+    ]
+  },
+  {
+    "name": "U6",
+    "count": 55,
+    "mktgs": [
+      "7J",
+      "J2",
+      "OK",
+      "QN",
+      "S7"
+    ]
+  },
+  {
+    "name": "MJ",
+    "count": 54,
+    "mktgs": [
+      "UL"
+    ]
+  },
+  {
+    "name": "GF",
+    "count": 53,
+    "mktgs": [
+      "MS",
+      "RJ",
+      "SV",
+      "TG"
+    ]
+  },
+  {
+    "name": "BM",
+    "count": 48,
+    "mktgs": [
+      "LH",
+      "SN"
+    ]
+  },
+  {
+    "name": "7X",
+    "count": 46,
+    "mktgs": [
+      "2X",
+      "6X",
+      "7S"
+    ]
+  },
+  {
+    "name": "TF",
+    "count": 44,
+    "mktgs": [
+      "AY"
+    ]
+  },
+  {
+    "name": "BI",
+    "count": 44,
+    "mktgs": [
+      "GA",
+      "KA",
+      "MH",
+      "TG"
+    ]
+  },
+  {
+    "name": "EN",
+    "count": 42,
+    "mktgs": [
+      "LH"
+    ]
+  },
+  {
+    "name": "CI",
+    "count": 42,
+    "mktgs": [
+      "GA",
+      "KL",
+      "OK"
+    ]
+  },
+  {
+    "name": "F7",
+    "count": 40,
+    "mktgs": [
+      "AB"
+    ]
+  },
+  {
+    "name": "ME",
+    "count": 39,
+    "mktgs": [
+      "AC",
+      "AF",
+      "AZ",
+      "CY",
+      "EY",
+      "QR",
+      "SV"
+    ]
+  },
+  {
+    "name": "9S",
+    "count": 38,
+    "mktgs": [
+      "2Y",
+      "4Y",
+      "4Z",
+      "5Y",
+      "5Z",
+      "6Y",
+      "7S",
+      "8Z",
+      "YZ"
+    ]
+  },
+  {
+    "name": "3K",
+    "count": 38,
+    "mktgs": [
+      "QF"
+    ]
+  },
+  {
+    "name": "UN",
+    "count": 36,
+    "mktgs": [
+      "BT",
+      "OS",
+      "SQ",
+      "ZI"
+    ]
+  },
+  {
+    "name": "FB",
+    "count": 36,
+    "mktgs": [
+      "AF",
+      "AZ",
+      "CY",
+      "IB",
+      "KL",
+      "OK",
+      "SU"
+    ]
+  },
+  {
+    "name": "FI",
+    "count": 34,
+    "mktgs": [
+      "AY",
+      "SK",
+      "SU"
+    ]
+  },
+  {
+    "name": "8X",
+    "count": 32,
+    "mktgs": [
+      "2X",
+      "6X",
+      "7N",
+      "7Z"
+    ]
+  },
+  {
+    "name": "7N",
+    "count": 30,
+    "mktgs": [
+      "2X",
+      "6X",
+      "6Z",
+      "7S",
+      "7X",
+      "8X",
+      "9Z"
+    ]
+  },
+  {
+    "name": "PX",
+    "count": 28,
+    "mktgs": [
+      "IE",
+      "QF"
+    ]
+  },
+  {
+    "name": "9B",
+    "count": 26,
+    "mktgs": [
+      "KL"
+    ]
+  },
+  {
+    "name": "PW",
+    "count": 25,
+    "mktgs": [
+      "KQ"
+    ]
+  },
+  {
+    "name": "PZ",
+    "count": 24,
+    "mktgs": [
+      "JJ",
+      "LA"
+    ]
+  },
+  {
+    "name": "LR",
+    "count": 24,
+    "mktgs": [
+      "AV",
+      "UA"
+    ]
+  },
+  {
+    "name": "B2",
+    "count": 22,
+    "mktgs": [
+      "AF",
+      "AY",
+      "BT",
+      "KL",
+      "LO",
+      "OK",
+      "U6"
+    ]
+  },
+  {
+    "name": "MF",
+    "count": 21,
+    "mktgs": [
+      "KL"
+    ]
+  },
+  {
+    "name": "CY",
+    "count": 21,
+    "mktgs": [
+      "AF",
+      "FB",
+      "KL",
+      "ME"
+    ]
+  },
+  {
+    "name": "7I",
+    "count": 20,
+    "mktgs": [
+      "KL"
+    ]
+  },
+  {
+    "name": "IG",
+    "count": 20,
+    "mktgs": [
+      "AB",
+      "BA",
+      "RJ"
+    ]
+  },
+  {
+    "name": "8J",
+    "count": 19,
+    "mktgs": [
+      "SS"
+    ]
+  },
+  {
+    "name": "HU",
+    "count": 18,
+    "mktgs": [
+      "AB",
+      "B7",
+      "BR",
+      "EY",
+      "MA"
+    ]
+  },
+  {
+    "name": "B7",
+    "count": 18,
+    "mktgs": [
+      "CA",
+      "HU",
+      "SC",
+      "ZH"
+    ]
+  },
+  {
+    "name": "KC",
+    "count": 18,
+    "mktgs": [
+      "EY",
+      "OZ",
+      "TK"
+    ]
+  },
+  {
+    "name": "ZD",
+    "count": 17,
+    "mktgs": [
+      "UU"
+    ]
+  },
+  {
+    "name": "SW",
+    "count": 16,
+    "mktgs": [
+      "KQ"
+    ]
+  },
+  {
+    "name": "NF",
+    "count": 16,
+    "mktgs": [
+      "IE",
+      "NZ",
+      "QF"
+    ]
+  },
+  {
+    "name": "J2",
+    "count": 16,
+    "mktgs": [
+      "AF",
+      "OK",
+      "U6"
+    ]
+  },
+  {
+    "name": "ZH",
+    "count": 16,
+    "mktgs": [
+      "B7",
+      "MI",
+      "OZ",
+      "SQ"
+    ]
+  },
+  {
+    "name": "XM",
+    "count": 15,
+    "mktgs": [
+      "AF"
+    ]
+  },
+  {
+    "name": "A9",
+    "count": 14,
+    "mktgs": [
+      "AF",
+      "KL",
+      "OS"
+    ]
+  },
+  {
+    "name": "HA",
+    "count": 14,
+    "mktgs": [
+      "VA"
+    ]
+  },
+  {
+    "name": "2X",
+    "count": 13,
+    "mktgs": [
+      "6X",
+      "7N",
+      "7X",
+      "7Z",
+      "8X"
+    ]
+  },
+  {
+    "name": "3Y",
+    "count": 12,
+    "mktgs": [
+      "2Y",
+      "4Y",
+      "5Y",
+      "5Z",
+      "7S",
+      "8Z",
+      "YZ"
+    ]
+  },
+  {
+    "name": "2J",
+    "count": 12,
+    "mktgs": [
+      "HF",
+      "KQ"
+    ]
+  },
+  {
+    "name": "WB",
+    "count": 12,
+    "mktgs": [
+      "KQ",
+      "SA"
+    ]
+  },
+  {
+    "name": "SC",
+    "count": 12,
+    "mktgs": [
+      "B7",
+      "BR",
+      "OZ"
+    ]
+  },
+  {
+    "name": "UU",
+    "count": 11,
+    "mktgs": [
+      "D6",
+      "HM",
+      "MD",
+      "ZD"
+    ]
+  },
+  {
+    "name": "6Y",
+    "count": 11,
+    "mktgs": [
+      "0Z",
+      "2Y",
+      "6Z",
+      "7S",
+      "9S",
+      "9Z"
+    ]
+  },
+  {
+    "name": "YM",
+    "count": 10,
+    "mktgs": [
+      "AZ",
+      "JP",
+      "OS"
+    ]
+  },
+  {
+    "name": "IS",
+    "count": 10,
+    "mktgs": [
+      "W2"
+    ]
+  },
+  {
+    "name": "6Z",
+    "count": 10,
+    "mktgs": [
+      "6Y",
+      "7N",
+      "7Z",
+      "9Z"
+    ]
+  },
+  {
+    "name": "2Q",
+    "count": 9,
+    "mktgs": [
+      "DY"
+    ]
+  },
+  {
+    "name": "NX",
+    "count": 8,
+    "mktgs": [
+      "OZ"
+    ]
+  },
+  {
+    "name": "HX",
+    "count": 8,
+    "mktgs": [
+      "BR"
+    ]
+  },
+  {
+    "name": "EC",
+    "count": 8,
+    "mktgs": [
+      "BA"
+    ]
+  },
+  {
+    "name": "KU",
+    "count": 8,
+    "mktgs": [
+      "SV"
+    ]
+  },
+  {
+    "name": "VF",
+    "count": 8,
+    "mktgs": [
+      "QF"
+    ]
+  },
+  {
+    "name": "5Y",
+    "count": 8,
+    "mktgs": [
+      "3Y",
+      "3Z",
+      "5Z",
+      "7S",
+      "9S",
+      "YZ"
+    ]
+  },
+  {
+    "name": "IY",
+    "count": 8,
+    "mktgs": [
+      "MS",
+      "SV"
+    ]
+  },
+  {
+    "name": "NN",
+    "count": 7,
+    "mktgs": [
+      "U6"
+    ]
+  },
+  {
+    "name": "YZ",
+    "count": 7,
+    "mktgs": [
+      "3Y",
+      "3Z",
+      "5Y",
+      "8Z",
+      "9S"
+    ]
+  },
+  {
+    "name": "2Y",
+    "count": 7,
+    "mktgs": [
+      "3Y",
+      "6Y",
+      "9S"
+    ]
+  },
+  {
+    "name": "D2",
+    "count": 6,
+    "mktgs": [
+      "U6"
+    ]
+  },
+  {
+    "name": "C3",
+    "count": 6,
+    "mktgs": [
+      "OU"
+    ]
+  },
+  {
+    "name": "WM",
+    "count": 6,
+    "mktgs": [
+      "TX"
+    ]
+  },
+  {
+    "name": "3Z",
+    "count": 6,
+    "mktgs": [
+      "4Z",
+      "5Y",
+      "5Z",
+      "7S",
+      "YZ"
+    ]
+  },
+  {
+    "name": "U9",
+    "count": 6,
+    "mktgs": [
+      "OK"
+    ]
+  },
+  {
+    "name": "4Y",
+    "count": 4,
+    "mktgs": [
+      "3Y",
+      "9S"
+    ]
+  },
+  {
+    "name": "CO",
+    "count": 4,
+    "mktgs": [
+      "JK"
+    ]
+  },
+  {
+    "name": "DV",
+    "count": 4,
+    "mktgs": [
+      "U6"
+    ]
+  },
+  {
+    "name": "HY",
+    "count": 4,
+    "mktgs": [
+      "BT"
+    ]
+  },
+  {
+    "name": "IO",
+    "count": 4,
+    "mktgs": [
+      "U6"
+    ]
+  },
+  {
+    "name": "PR",
+    "count": 4,
+    "mktgs": [
+      "GA"
+    ]
+  },
+  {
+    "name": "RT",
+    "count": 4,
+    "mktgs": [
+      "EY"
+    ]
+  },
+  {
+    "name": "WK",
+    "count": 4,
+    "mktgs": [
+      "LX"
+    ]
+  },
+  {
+    "name": "XY",
+    "count": 4,
+    "mktgs": [
+      "EY"
+    ]
+  },
+  {
+    "name": "OL",
+    "count": 3,
+    "mktgs": [
+      "O2"
+    ]
+  },
+  {
+    "name": "AP",
+    "count": 3,
+    "mktgs": [
+      "AZ"
+    ]
+  },
+  {
+    "name": "9Z",
+    "count": 3,
+    "mktgs": [
+      "6Y",
+      "6Z"
+    ]
+  },
+  {
+    "name": "VY",
+    "count": 3,
+    "mktgs": [
+      "IB"
+    ]
+  },
+  {
+    "name": "7F",
+    "count": 2,
+    "mktgs": [
+      "GL"
+    ]
+  },
+  {
+    "name": "4Z",
+    "count": 2,
+    "mktgs": [
+      "3Z",
+      "7S"
+    ]
+  },
+  {
+    "name": "4Q",
+    "count": 2,
+    "mktgs": [
+      "GF"
+    ]
+  },
+  {
+    "name": "2B",
+    "count": 2,
+    "mktgs": [
+      "7N"
+    ]
+  },
+  {
+    "name": "ZI",
+    "count": 2,
+    "mktgs": [
+      "UN"
+    ]
+  },
+  {
+    "name": "0Z",
+    "count": 2,
+    "mktgs": [
+      "6Y",
+      "6Z"
+    ]
+  },
+  {
+    "name": "TU",
+    "count": 2,
+    "mktgs": [
+      "ME"
+    ]
+  },
+  {
+    "name": "RB",
+    "count": 2,
+    "mktgs": [
+      "SV"
+    ]
+  },
+  {
+    "name": "MP",
+    "count": 2,
+    "mktgs": [
+      "KQ"
+    ]
+  },
+  {
+    "name": "GL",
+    "count": 2,
+    "mktgs": [
+      "7F"
+    ]
+  },
+  {
+    "name": "I9",
+    "count": 2,
+    "mktgs": [
+      "IG"
+    ]
+  },
+  {
+    "name": "IE",
+    "count": 2,
+    "mktgs": [
+      "NF"
+    ]
+  },
+  {
+    "name": "JA",
+    "count": 2,
+    "mktgs": [
+      "JU"
+    ]
+  },
+  {
+    "name": "LZ",
+    "count": 2,
+    "mktgs": [
+      "L9"
+    ]
+  },
+  {
+    "name": "MD",
+    "count": 2,
+    "mktgs": [
+      "TG"
+    ]
+  },
+  {
+    "name": "0E",
+    "count": 1,
+    "mktgs": [
+      "WZ"
+    ]
+  },
+  {
+    "name": "BD",
+    "count": 1,
+    "mktgs": [
+      "KM"
+    ]
+  },
+  {
+    "name": "WZ",
+    "count": 1,
+    "mktgs": [
+      "0E"
+    ]
+  },
+  {
+    "name": "EB",
+    "count": 1,
+    "mktgs": [
+      "SS"
+    ]
+  }
+]

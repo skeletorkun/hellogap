@@ -29,6 +29,8 @@
 		left : 20
 	}, width = screen.width - margin.right - margin.left, height = screen.height - margin.top - margin.bottom;
 
+	var freqLog = d3.scale.linear().domain([d3.min(data.value), d3.max(data.value)]).range(0,120);
+
 	var color = d3.scale.category20();
 
 	var force = d3.layout.force().charge(-120).linkDistance(30).size([width, height]);
