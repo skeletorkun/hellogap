@@ -64,7 +64,7 @@ var bundle = d3.layout.bundle();
 
 var line = d3.svg.line.radial()
     .interpolate("bundle")
-    .tension(.85)
+    .tension(.65)
     .radius(function(d) { return d.y; })
     .angle(function(d) { return d.x / 180 * Math.PI; });
 
@@ -77,19 +77,19 @@ var svg = d3.select("body").append("svg")
 var link = svg.append("g").selectAll(".link"),
     node = svg.append("g").selectAll(".node");
 
-d3.json("data/edgeBundling.json", function(error, codeshares) {
+d3.json("data/edgeBundling3.json", function(error, codeshares) {
   var nodes = cluster.nodes(getHierarchy(codeshares)),
       links = packageMktgs(nodes);
 
   link = link
       .data(bundle(links))
-    .enter().append("path")
+		.enter().append("path")
       .each(function(d) { d.source = d[0], d.target = d[d.length - 1]; })
       .attr("class", "link")
       .attr("d", line);
 
   node = node
-      .data(nodes.filter(function(n) { return !n.mktgs; }))
+      .data(nodes.filter(function(n) { return !n.children; }))
     .enter().append("text")
       .attr("class", "node")
       .attr("dy", ".31em")
@@ -132,13 +132,15 @@ function getHierarchy(partnerships) {
   var map = {};
   
   function find(name, data) {
-    var node = map[name];
+    var node = map[name], i;
     if (!node) {
-      node = map[name] = data || {name:name, children: []};
+      node = map[name] = data || {name: name, children: []};
+     
       if (name.length) {
-        node.parent = find(name.substring(0, name.lastIndexOf(".")));
-        node.parent.children.push(node);  
-        node.key = name;
+        node.parent = find(name.substring(0, i = name.indexOf(".")));
+        node.parent.children.push(node);
+        node.key = name.substring(i + 1);
+        console.log("node.key: " + node.key);
       }
     }
     return node;
@@ -149,27 +151,43 @@ function getHierarchy(partnerships) {
   });
 	
 	console.log("total children: " + map[""].children.length);
-  return map[""];
+  	return map[""];
 }
 
-// Return a list of imports for the given array of nodes.
+// Return a list of mktgs for the given array of nodes.
 function packageMktgs(nodes) {
   var map = {},
       mktgs = [];
 
   nodes.forEach(function(d) {
     map[d.name] = d;
-    console.log(d.name);
   });
 
   // For each mktg, construct a link from the source to target node.
   nodes.forEach(function(d) {
-    if (d.mktgs) d.mktgs.forEach(function(i) {
-      mktgs.push({source: map[d.name], target: map[i]});
-      //console.log("{source: " + map[d.name] + ", target:  " + map[i] +" }");
-    });
-  });
+  	
+    if (d.mktgs) 
+    {
+    	console.log( d.name + " length : " + d.mktgs.length);
+    	d.mktgs.forEach(function(i) {
+		mktgs.push({source: map[d.name], target: map[i]});
+		//console.log("{source: " + map[d.name].name + ", target:  " + map[i].name +" }");
 
+      // if(map[i])
+      // {
+      	// mktgs.push({source: map[d.name], target: map[i]});
+      	// // console.log("{source: " + map[d.name] + ", target:  " + map[i] +" }");
+      // }
+      // else
+      // {
+      	// console.log("fails " + d.name);
+      // }
+     
+    	});
+     }
+  });
+	
+	console.log("done packing.");
   return mktgs;
 }
 

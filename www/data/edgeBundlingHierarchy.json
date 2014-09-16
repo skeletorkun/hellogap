@@ -1,0 +1,975 @@
+[
+	{
+		"name": "NorthAmerica.UA",
+		"size": 58322,
+		"mktgs": ["NorthAmerica.AV", "NorthAmerica.BR", "NorthAmerica.JK", "NorthAmerica.LH", "NorthAmerica.LO", "NorthAmerica.LR", "NorthAmerica.MS", "NorthAmerica.OS", "NorthAmerica.OZ", "NorthAmerica.SA", "NorthAmerica.SK", "NorthAmerica.TA", "NorthAmerica.TP"]
+	}, {
+		"name": "Europe.LH",
+		"size": 51762,
+		"mktgs": ["Europe.A3", "Europe.AC", "Europe.AI", "Europe.AV", "Europe.CA", "Europe.DT", "Europe.EN", "Europe.ET", "Europe.J2", "Europe.JJ", "Europe.KM", "Europe.LG", "Europe.LO", "Europe.LX", "Europe.MS", "Europe.NH", "Europe.NZ", "Europe.OS", "Europe.OU", "Europe.SA", "Europe.SK", "Europe.SN", "Europe.SQ", "Europe.TG", "Europe.TP", "Europe.UA"]
+	}, {
+		"name": "NorthAmerica.DL",
+		"size": 51721,
+		"mktgs": ["NorthAmerica.AF", "NorthAmerica.KL", "NorthAmerica.OK", "NorthAmerica.UX", "NorthAmerica.VA"]
+	}, {
+		"name": "NorthAmerica.AA",
+		"size": 39929,
+		"mktgs": ["NorthAmerica.AB", "NorthAmerica.AY", "NorthAmerica.BA", "NorthAmerica.CX", "NorthAmerica.EY", "NorthAmerica.FJ", "NorthAmerica.JJ", "NorthAmerica.LY", "NorthAmerica.MX", "NorthAmerica.QF", "NorthAmerica.QR", "NorthAmerica.RJ"]
+	}, {
+		"name": "Europe.UX",
+		"size": 15815,
+		"mktgs": ["Europe.AF", "Europe.AM", "Europe.AR", "Europe.AZ", "Europe.DL", "Europe.EY", "Europe.KL", "Europe.NT", "Europe.OK", "Europe.RO", "Europe.SU", "Europe.SV", "Europe.VN"]
+	}, {
+		"name": "Europe.SK",
+		"size": 10941,
+		"mktgs": ["Europe.A3", "Europe.AC", "Europe.BT", "Europe.CA", "Europe.ET", "Europe.FI", "Europe.FV", "Europe.JP", "Europe.LH", "Europe.LO", "Europe.LX", "Europe.MS", "Europe.OS", "Europe.OU", "Europe.OV", "Europe.SA", "Europe.SQ", "Europe.SU", "Europe.TG", "Europe.TK", "Europe.UA"]
+	}, {
+		"name": "Asia.QR",
+		"size": 7451,
+		"mktgs": ["Asia.AA", "Asia.BA", "Asia.CX", "Asia.J2", "Asia.JL", "Asia.ME", "Asia.MH", "Asia.NH", "Asia.OZ", "Asia.US", "Asia.WY"]
+	}, {
+		"name": "Oceania.VA",
+		"size": 7254,
+		"mktgs": ["Oceania.AB", "Oceania.DL", "Oceania.EY", "Oceania.MK", "Oceania.SA", "Oceania.SQ"]
+	}, {
+		"name": "Europe.AF",
+		"size": 6631,
+		"mktgs": ["Europe.2J", "Europe.3S", "Europe.9W", "Europe.AM", "Europe.AR", "Europe.AY", "Europe.AZ", "Europe.BE", "Europe.CY", "Europe.CZ", "Europe.DL", "Europe.DT", "Europe.EY", "Europe.FB", "Europe.JL", "Europe.KE", "Europe.KL", "Europe.KQ", "Europe.LX", "Europe.ME", "Europe.MK", "Europe.MU", "Europe.OK", "Europe.OS", "Europe.PS", "Europe.RO", "Europe.SU", "Europe.SV", "Europe.TN", "Europe.UX", "Europe.VN", "Europe.XK", "Europe.XM"]
+	}, {
+		"name": "NorthAmerica.AM",
+		"size": 5625,
+		"mktgs": ["NorthAmerica.AF", "NorthAmerica.AV", "NorthAmerica.DL", "NorthAmerica.JJ", "NorthAmerica.KL", "NorthAmerica.OK", "NorthAmerica.UX"]
+	}, {
+		"name": "Europe.BA",
+		"size": 5372,
+		"mktgs": ["Europe.AA", "Europe.AB", "Europe.AY", "Europe.CX", "Europe.IB", "Europe.JL", "Europe.KL", "Europe.LA", "Europe.QF", "Europe.QR", "Europe.RJ", "Europe.S7", "Europe.SN", "Europe.US"]
+	}, {
+		"name": "NorthAmerica.US",
+		"size": 5076,
+		"mktgs": ["NorthAmerica.A3", "NorthAmerica.AB", "NorthAmerica.BA", "NorthAmerica.BR", "NorthAmerica.JJ", "NorthAmerica.LR", "NorthAmerica.OU", "NorthAmerica.QR", "NorthAmerica.RJ", "NorthAmerica.SA", "NorthAmerica.SQ", "NorthAmerica.TA", "NorthAmerica.TP"]
+	}, {
+		"name": "Europe.A3",
+		"size": 4003,
+		"mktgs": ["Europe.AC", "Europe.EY", "Europe.LH", "Europe.MS", "Europe.OA", "Europe.S7", "Europe.SK", "Europe.SN", "Europe.SQ", "Europe.TK", "Europe.TP", "Europe.UA", "Europe.US"]
+	}, {
+		"name": "SouthAmerica.JJ",
+		"size": 3726,
+		"mktgs": ["SouthAmerica.AA", "SouthAmerica.AC", "SouthAmerica.AM", "SouthAmerica.CA", "SouthAmerica.LA", "SouthAmerica.LH", "SouthAmerica.LX", "SouthAmerica.NH", "SouthAmerica.SA", "SouthAmerica.US"]
+	}, {
+		"name": "SouthAmerica.VA",
+		"size": 3627,
+		"mktgs": ["SouthAmerica.AB", "SouthAmerica.DL", "SouthAmerica.EY", "SouthAmerica.MK", "SouthAmerica.SA", "SouthAmerica.SQ"]
+	}, {
+		"name": "NorthAmerica.AC",
+		"size": 3581,
+		"mktgs": ["NorthAmerica.A3", "NorthAmerica.AV", "NorthAmerica.BD", "NorthAmerica.JJ", "NorthAmerica.JK", "NorthAmerica.LH", "NorthAmerica.LO", "NorthAmerica.LR", "NorthAmerica.ME", "NorthAmerica.MS", "NorthAmerica.OS", "NorthAmerica.OZ", "NorthAmerica.SA", "NorthAmerica.SK", "NorthAmerica.SQ", "NorthAmerica.TA", "NorthAmerica.TG", "NorthAmerica.TP", "NorthAmerica.UL"]
+	}, {
+		"name": "Europe.AB",
+		"size": 3120,
+		"mktgs": ["Europe.AA", "Europe.AY", "Europe.BA", "Europe.BT", "Europe.EY", "Europe.HM", "Europe.HU", "Europe.IB", "Europe.IG", "Europe.JL", "Europe.JU", "Europe.RJ", "Europe.S7", "Europe.US", "Europe.VA"]
+	}, {
+		"name": "Europe.AY",
+		"size": 2804,
+		"mktgs": ["Europe.AA", "Europe.AB", "Europe.AF", "Europe.BA", "Europe.CA", "Europe.CX", "Europe.FI", "Europe.IB", "Europe.JL", "Europe.MH", "Europe.OK", "Europe.PS", "Europe.QF", "Europe.S7", "Europe.SU", "Europe.TF", "Europe.TP"]
+	}, {
+		"name": "Oceania.NZ",
+		"size": 2779,
+		"mktgs": ["Oceania.CX", "Oceania.EY", "Oceania.LH", "Oceania.MX", "Oceania.NF", "Oceania.OZ", "Oceania.SA", "Oceania.SB", "Oceania.SQ", "Oceania.TG"]
+	}, {
+		"name": "SouthAmerica.G3",
+		"size": 2682,
+		"mktgs": ["SouthAmerica.AF", "SouthAmerica.KL", "SouthAmerica.QR"]
+	}, {
+		"name": "Europe.G3",
+		"size": 2682,
+		"mktgs": ["Europe.AF", "Europe.KL", "Europe.QR"]
+	}, {
+		"name": "Africa.G3",
+		"size": 2682,
+		"mktgs": ["Africa.AF", "Africa.KL", "Africa.QR"]
+	}, {
+		"name": "Europe.TP",
+		"size": 2613,
+		"mktgs": ["Europe.A3", "Europe.AC", "Europe.AY", "Europe.AZ", "Europe.CA", "Europe.EK", "Europe.EY", "Europe.LH", "Europe.LO", "Europe.LX", "Europe.MS", "Europe.NH", "Europe.OS", "Europe.OU", "Europe.PS", "Europe.S4", "Europe.S7", "Europe.SA", "Europe.SN", "Europe.TG", "Europe.TK", "Europe.TM", "Europe.UA", "Europe.US"]
+	}, {
+		"name": "Europe.KL",
+		"size": 2607,
+		"mktgs": ["Europe.AF", "Europe.AM", "Europe.AR", "Europe.AZ", "Europe.CI", "Europe.CM", "Europe.CZ", "Europe.DL", "Europe.DT", "Europe.EY", "Europe.FV", "Europe.GA", "Europe.JU", "Europe.KE", "Europe.KQ", "Europe.MH", "Europe.MU", "Europe.OK", "Europe.PS", "Europe.RO", "Europe.SU", "Europe.SV", "Europe.UX", "Europe.VE", "Europe.VN", "Europe.XM"]
+	}, {
+		"name": "Europe.A5",
+		"size": 2535,
+		"mktgs": ["Europe.AF", "Europe.AZ", "Europe.DB", "Europe.KL", "Europe.XK"]
+	}, {
+		"name": "Oceania.QF",
+		"size": 2387,
+		"mktgs": ["Oceania.9W", "Oceania.AA", "Oceania.AY", "Oceania.BA", "Oceania.CZ", "Oceania.EK", "Oceania.JL", "Oceania.JQ", "Oceania.LA", "Oceania.MU", "Oceania.PG", "Oceania.SA", "Oceania.SB", "Oceania.TN"]
+	}, {
+		"name": "Europe.OS",
+		"size": 2353,
+		"mktgs": ["Europe.AC", "Europe.AF", "Europe.AI", "Europe.B2", "Europe.CA", "Europe.ET", "Europe.IR", "Europe.J2", "Europe.KC", "Europe.KM", "Europe.LG", "Europe.LH", "Europe.LO", "Europe.LX", "Europe.MS", "Europe.NH", "Europe.OU", "Europe.PS", "Europe.RO", "Europe.SK", "Europe.SN", "Europe.TD", "Europe.TG", "Europe.TP", "Europe.UA", "Europe.UN", "Europe.YM"]
+	}, {
+		"name": "Asia.CZ",
+		"size": 2073,
+		"mktgs": ["Asia.AF", "Asia.GA", "Asia.KL", "Asia.KQ", "Asia.OZ", "Asia.QF"]
+	}, {
+		"name": "Asia.EY",
+		"size": 1945,
+		"mktgs": ["Asia.9W", "Asia.A3", "Asia.AA", "Asia.AB", "Asia.AF", "Asia.AT", "Asia.AZ", "Asia.BT", "Asia.CY", "Asia.EI", "Asia.GA", "Asia.HM", "Asia.HU", "Asia.JU", "Asia.KC", "Asia.KL", "Asia.KM", "Asia.KQ", "Asia.ME", "Asia.MH", "Asia.MU", "Asia.NZ", "Asia.OA", "Asia.OK", "Asia.OZ", "Asia.PG", "Asia.PR", "Asia.RT", "Asia.S7", "Asia.SA", "Asia.SN", "Asia.SV", "Asia.TK", "Asia.TP", "Asia.UL", "Asia.UX", "Asia.VA", "Asia.VN", "Asia.XY"]
+	}, {
+		"name": "Europe.AZ",
+		"size": 1945,
+		"mktgs": ["Europe.AF", "Europe.AM", "Europe.AP", "Europe.BT", "Europe.CT", "Europe.DL", "Europe.EY", "Europe.FB", "Europe.JU", "Europe.KL", "Europe.ME", "Europe.MU", "Europe.SV", "Europe.TP", "Europe.UL", "Europe.UX", "Europe.VN", "Europe.YM"]
+	}, {
+		"name": "Rest.AV",
+		"size": 1633,
+		"mktgs": ["Rest.2K", "Rest.AC", "Rest.AM", "Rest.CM", "Rest.H2", "Rest.IB", "Rest.LH", "Rest.UA"]
+	}, {
+		"name": "Asia.SQ",
+		"size": 1522,
+		"mktgs": ["Asia.A3", "Asia.AC", "Asia.AI", "Asia.BR", "Asia.ET", "Asia.GA", "Asia.LH", "Asia.LO", "Asia.LX", "Asia.MH", "Asia.MI", "Asia.MS", "Asia.NH", "Asia.OZ", "Asia.SA", "Asia.SK", "Asia.TK", "Asia.UN", "Asia.US", "Asia.VA", "Asia.VS"]
+	}, {
+		"name": "SouthAmerica.LA",
+		"size": 1446,
+		"mktgs": ["SouthAmerica.BA", "SouthAmerica.CX", "SouthAmerica.JJ", "SouthAmerica.QF"]
+	}, {
+		"name": "Rest.AS",
+		"size": 1313,
+		"mktgs": ["Rest.AF", "Rest.CX", "Rest.FJ", "Rest.KL", "Rest.QF"]
+	}, {
+		"name": "Europe.IB",
+		"size": 1259,
+		"mktgs": ["Europe.AB", "Europe.AT", "Europe.AV", "Europe.AY", "Europe.BA", "Europe.LY", "Europe.MA", "Europe.MX", "Europe.OK", "Europe.RJ"]
+	}, {
+		"name": "NorthAmerica.B6",
+		"size": 1209,
+		"mktgs": ["NorthAmerica.LH", "NorthAmerica.QR", "NorthAmerica.SA"]
+	}, {
+		"name": "Asia.MI",
+		"size": 1168,
+		"mktgs": ["Asia.GA", "Asia.MH", "Asia.PG", "Asia.SQ", "Asia.VA", "Asia.ZH"]
+	}, {
+		"name": "Europe.OA",
+		"size": 1088,
+		"mktgs": ["Europe.A3"]
+	}, {
+		"name": "Asia.9W",
+		"size": 1069,
+		"mktgs": ["Asia.AF", "Asia.EY", "Asia.GA", "Asia.KL", "Asia.QF", "Asia.SA"]
+	}, {
+		"name": "Rest.SU",
+		"size": 986,
+		"mktgs": ["Rest.AF", "Rest.AY", "Rest.BT", "Rest.FB", "Rest.FI", "Rest.JU", "Rest.KL", "Rest.KQ", "Rest.LO", "Rest.MA", "Rest.ME", "Rest.OK", "Rest.OV", "Rest.SK", "Rest.UX"]
+	}, {
+		"name": "Asia.TK",
+		"size": 948,
+		"mktgs": ["Asia.A3", "Asia.AT", "Asia.EY", "Asia.GA", "Asia.JK", "Asia.JP", "Asia.KC", "Asia.LO", "Asia.MS", "Asia.OU", "Asia.OZ", "Asia.SK", "Asia.SQ", "Asia.TG", "Asia.TP"]
+	}, {
+		"name": "Asia.PG",
+		"size": 926,
+		"mktgs": ["Asia.AB", "Asia.AF", "Asia.AY", "Asia.BA", "Asia.BR", "Asia.CX", "Asia.EY", "Asia.KL", "Asia.MI", "Asia.QF", "Asia.QR"]
+	}, {
+		"name": "Europe.4U",
+		"size": 918,
+		"mktgs": ["Europe.LH", "Europe.OS"]
+	}, {
+		"name": "Europe.LO",
+		"size": 893,
+		"mktgs": ["Europe.AC", "Europe.B2", "Europe.CA", "Europe.FB", "Europe.JP", "Europe.JU", "Europe.KF", "Europe.LG", "Europe.LH", "Europe.LX", "Europe.NH", "Europe.OS", "Europe.OZ", "Europe.RO", "Europe.SK", "Europe.SQ", "Europe.SU", "Europe.TK", "Europe.TP", "Europe.UA"]
+	}, {
+		"name": "Africa.SA",
+		"size": 721,
+		"mktgs": ["Africa.9W", "Africa.AC", "Africa.AI", "Africa.B6", "Africa.CA", "Africa.ET", "Africa.EY", "Africa.HM", "Africa.JJ", "Africa.LH", "Africa.LX", "Africa.MK", "Africa.MS", "Africa.NH", "Africa.NZ", "Africa.OZ", "Africa.SK", "Africa.SQ", "Africa.TM", "Africa.TP", "Africa.UA", "Africa.US", "Africa.VS"]
+	}, {
+		"name": "Europe.SN",
+		"size": 716,
+		"mktgs": ["Europe.9W", "Europe.A3", "Europe.AT", "Europe.BT", "Europe.EY", "Europe.JK", "Europe.LH", "Europe.OS", "Europe.SQ", "Europe.TG", "Europe.TP"]
+	}, {
+		"name": "Europe.XK",
+		"size": 703,
+		"mktgs": ["Europe.A5", "Europe.AF", "Europe.AZ"]
+	}, {
+		"name": "Europe.BE",
+		"size": 677,
+		"mktgs": ["Europe.AF", "Europe.AY", "Europe.BA", "Europe.EY", "Europe.KL"]
+	}, {
+		"name": "NorthAmerica.WS",
+		"size": 654,
+		"mktgs": ["NorthAmerica.AF", "NorthAmerica.BA", "NorthAmerica.CX", "NorthAmerica.KL"]
+	}, {
+		"name": "Asia.TG",
+		"size": 653,
+		"mktgs": ["Asia.EK", "Asia.GF", "Asia.JL", "Asia.LH", "Asia.LX", "Asia.MD", "Asia.MH", "Asia.NH", "Asia.NZ", "Asia.OS", "Asia.OZ", "Asia.PK", "Asia.QV", "Asia.SA", "Asia.SK", "Asia.SN", "Asia.TK", "Asia.TP"]
+	}, {
+		"name": "Asia.NH",
+		"size": 644,
+		"mktgs": ["Asia.BR", "Asia.GA", "Asia.JJ", "Asia.LH", "Asia.MS", "Asia.OS", "Asia.OZ", "Asia.QR", "Asia.SA", "Asia.SK", "Asia.SQ", "Asia.TG"]
+	}, {
+		"name": "NorthAmerica.MX",
+		"size": 640,
+		"mktgs": ["NorthAmerica.AA", "NorthAmerica.CX", "NorthAmerica.IB", "NorthAmerica.JL", "NorthAmerica.LH", "NorthAmerica.NZ", "NorthAmerica.VW"]
+	}, {
+		"name": "NorthAmerica.VX",
+		"size": 635,
+		"mktgs": ["NorthAmerica.SQ", "NorthAmerica.VA"]
+	}, {
+		"name": "Europe.HG",
+		"size": 629,
+		"mktgs": ["Europe.AA", "Europe.AB", "Europe.AY", "Europe.EY", "Europe.IB", "Europe.IG", "Europe.JL", "Europe.RJ", "Europe.S7"]
+	}, {
+		"name": "Asia.MH",
+		"size": 627,
+		"mktgs": ["Asia.AY", "Asia.BI", "Asia.CX", "Asia.EY", "Asia.GA", "Asia.KA", "Asia.KL", "Asia.MI", "Asia.MK", "Asia.QR", "Asia.RJ", "Asia.SQ", "Asia.TG", "Asia.UL"]
+	}, {
+		"name": "Oceania.JQ",
+		"size": 625,
+		"mktgs": ["Oceania.QF"]
+	}, {
+		"name": "Asia.JL",
+		"size": 552,
+		"mktgs": ["Asia.AF", "Asia.AY", "Asia.BA", "Asia.CX", "Asia.MX", "Asia.QF", "Asia.QR", "Asia.TG"]
+	}, {
+		"name": "Europe.2C",
+		"size": 549,
+		"mktgs": ["Europe.CX", "Europe.QR"]
+	}, {
+		"name": "Europe.OU",
+		"size": 548,
+		"mktgs": ["Europe.AZ", "Europe.LH", "Europe.LX", "Europe.OS", "Europe.SK", "Europe.SN", "Europe.TK", "Europe.TP", "Europe.UA"]
+	}, {
+		"name": "Africa.KQ",
+		"size": 544,
+		"mktgs": ["Africa.2J", "Africa.9W", "Africa.AF", "Africa.AZ", "Africa.CZ", "Africa.DT", "Africa.EY", "Africa.GA", "Africa.KE", "Africa.KL", "Africa.MN", "Africa.MU", "Africa.PW", "Africa.SU", "Africa.SW", "Africa.TM", "Africa.VK", "Africa.VN"]
+	}, {
+		"name": "Europe.LX",
+		"size": 494,
+		"mktgs": ["Europe.JJ", "Europe.JK", "Europe.JP", "Europe.LH", "Europe.LN", "Europe.LO", "Europe.LY", "Europe.MS", "Europe.NH", "Europe.OL", "Europe.OS", "Europe.OU", "Europe.SA", "Europe.SK", "Europe.SQ", "Europe.TG", "Europe.TP", "Europe.UA", "Europe.US"]
+	}, {
+		"name": "Europe.WX",
+		"size": 487,
+		"mktgs": ["Europe.AF", "Europe.KL"]
+	}, {
+		"name": "Asia.UL",
+		"size": 478,
+		"mktgs": ["Asia.AC", "Asia.AI", "Asia.AZ", "Asia.EY", "Asia.MH", "Asia.MJ", "Asia.OZ", "Asia.S7", "Asia.SV", "Asia.WY"]
+	}, {
+		"name": "Rest.S7",
+		"size": 465,
+		"mktgs": ["Rest.A3", "Rest.AB", "Rest.AY", "Rest.BA", "Rest.CX", "Rest.EY", "Rest.HG", "Rest.LY", "Rest.RJ", "Rest.TP", "Rest.U6", "Rest.UL"]
+	}, {
+		"name": "Rest.CX",
+		"size": 415,
+		"mktgs": ["Rest.AA", "Rest.AY", "Rest.BA", "Rest.CA", "Rest.HM", "Rest.JL", "Rest.KA", "Rest.LA", "Rest.MH", "Rest.NZ", "Rest.PG", "Rest.PR", "Rest.QR", "Rest.S7", "Rest.VN"]
+	}, {
+		"name": "Europe.VE",
+		"size": 408,
+		"mktgs": ["Europe.AF", "Europe.AZ"]
+	}, {
+		"name": "Europe.WF",
+		"size": 398,
+		"mktgs": ["Europe.SK"]
+	}, {
+		"name": "Europe.HV",
+		"size": 398,
+		"mktgs": ["Europe.KL"]
+	}, {
+		"name": "Europe.OK",
+		"size": 379,
+		"mktgs": ["Europe.AF", "Europe.AM", "Europe.CI", "Europe.CZ", "Europe.DL", "Europe.EY", "Europe.FB", "Europe.HM", "Europe.HY", "Europe.IB", "Europe.J2", "Europe.KE", "Europe.KL", "Europe.QS", "Europe.RO", "Europe.SU", "Europe.TD", "Europe.U6", "Europe.UX", "Europe.VN"]
+	}, {
+		"name": "Asia.CA",
+		"size": 360,
+		"mktgs": ["Asia.B7", "Asia.BR", "Asia.CX", "Asia.JJ", "Asia.KA", "Asia.LH", "Asia.OS", "Asia.OZ", "Asia.SA", "Asia.SK", "Asia.TP"]
+	}, {
+		"name": "NorthAmerica.OZ",
+		"size": 354,
+		"mktgs": ["NorthAmerica.8M", "NorthAmerica.AC", "NorthAmerica.AI", "NorthAmerica.BR", "NorthAmerica.CA", "NorthAmerica.CM", "NorthAmerica.CZ", "NorthAmerica.ET", "NorthAmerica.KC", "NorthAmerica.NH", "NorthAmerica.NZ", "NorthAmerica.QF", "NorthAmerica.S7", "NorthAmerica.SA", "NorthAmerica.SC", "NorthAmerica.SQ", "NorthAmerica.TG", "NorthAmerica.TK", "NorthAmerica.UA", "NorthAmerica.UL", "NorthAmerica.ZH"]
+	}, {
+		"name": "Asia.MU",
+		"size": 334,
+		"mktgs": ["Asia.AF", "Asia.KL", "Asia.KQ", "Asia.QF"]
+	}, {
+		"name": "Africa.ET",
+		"size": 321,
+		"mktgs": ["Africa.KP", "Africa.LH", "Africa.LY", "Africa.MS", "Africa.OS", "Africa.OZ", "Africa.SA", "Africa.SK", "Africa.SQ", "Africa.TK"]
+	}, {
+		"name": "Asia.EK",
+		"size": 285,
+		"mktgs": ["Asia.MK", "Asia.QF", "Asia.SA", "Asia.TG", "Asia.TP"]
+	}, {
+		"name": "Europe.PS",
+		"size": 273,
+		"mktgs": ["Europe.AF", "Europe.KL", "Europe.OS", "Europe.TP", "Europe.U6", "Europe.VV"]
+	}, {
+		"name": "NorthAmerica.PS",
+		"size": 273,
+		"mktgs": ["NorthAmerica.AF", "NorthAmerica.KL", "NorthAmerica.OS", "NorthAmerica.TP", "NorthAmerica.U6", "NorthAmerica.VV"]
+	}, {
+		"name": "Rest.KA",
+		"size": 268,
+		"mktgs": ["Rest.CA", "Rest.CX", "Rest.MH", "Rest.S7"]
+	}, {
+		"name": "Africa.MK",
+		"size": 265,
+		"mktgs": ["Africa.AF", "Africa.AI", "Africa.KQ", "Africa.MD", "Africa.MH", "Africa.SA", "Africa.UU"]
+	}, {
+		"name": "Asia.VN",
+		"size": 257,
+		"mktgs": ["Asia.AF", "Asia.AZ", "Asia.CX", "Asia.EY", "Asia.KL", "Asia.KQ", "Asia.LY", "Asia.OK", "Asia.QF", "Asia.UX"]
+	}, {
+		"name": "Europe.RO",
+		"size": 248,
+		"mktgs": ["Europe.AF", "Europe.BT", "Europe.FB", "Europe.JU", "Europe.KL", "Europe.ME", "Europe.OK", "Europe.OS", "Europe.RJ", "Europe.SN", "Europe.UX"]
+	}, {
+		"name": "Africa.JE",
+		"size": 243,
+		"mktgs": ["Africa.SA"]
+	}, {
+		"name": "Europe.EI",
+		"size": 239,
+		"mktgs": ["Europe.BA", "Europe.EY", "Europe.KL"]
+	}, {
+		"name": "Europe.BT",
+		"size": 234,
+		"mktgs": ["Europe.A9", "Europe.AB", "Europe.AF", "Europe.AZ", "Europe.B2", "Europe.EY", "Europe.HY", "Europe.J2", "Europe.KL", "Europe.OK", "Europe.OS", "Europe.PS", "Europe.RO", "Europe.SK", "Europe.SN", "Europe.SU", "Europe.UN"]
+	}, {
+		"name": "Europe.SS",
+		"size": 211,
+		"mktgs": ["Europe.DN", "Europe.TX"]
+	}, {
+		"name": "Rest.6X",
+		"size": 210,
+		"mktgs": ["Rest.2X", "Rest.2Y", "Rest.6Y", "Rest.7S", "Rest.7X", "Rest.8X"]
+	}, {
+		"name": "Europe.VS",
+		"size": 207,
+		"mktgs": ["Europe.SA", "Europe.SQ", "Europe.VA"]
+	}, {
+		"name": "SouthAmerica.VE",
+		"size": 204,
+		"mktgs": ["SouthAmerica.AF", "SouthAmerica.AZ"]
+	}, {
+		"name": "Africa.QS",
+		"size": 184,
+		"mktgs": ["Africa.OK"]
+	}, {
+		"name": "Europe.QS",
+		"size": 184,
+		"mktgs": ["Europe.OK"]
+	}, {
+		"name": "SouthAmerica.O6",
+		"size": 183,
+		"mktgs": ["SouthAmerica.AV", "SouthAmerica.TA"]
+	}, {
+		"name": "Europe.LG",
+		"size": 177,
+		"mktgs": ["Europe.AF", "Europe.LH", "Europe.LO", "Europe.OS"]
+	}, {
+		"name": "Europe.3S",
+		"size": 171,
+		"mktgs": ["Europe.AF", "Europe.SS"]
+	}, {
+		"name": "Africa.MS",
+		"size": 171,
+		"mktgs": ["Africa.A3", "Africa.AC", "Africa.AI", "Africa.CA", "Africa.ET", "Africa.GF", "Africa.IY", "Africa.LH", "Africa.LX", "Africa.MH", "Africa.OS", "Africa.SA", "Africa.SK", "Africa.SN", "Africa.SQ", "Africa.TG", "Africa.TK", "Africa.TP", "Africa.UA"]
+	}, {
+		"name": "Africa.TM",
+		"size": 170,
+		"mktgs": ["Africa.KQ", "Africa.SA"]
+	}, {
+		"name": "Europe.VV",
+		"size": 151,
+		"mktgs": ["Europe.FB", "Europe.PS", "Europe.TG", "Europe.U8"]
+	}, {
+		"name": "Europe.TX",
+		"size": 151,
+		"mktgs": ["Europe.SS"]
+	}, {
+		"name": "Asia.GA",
+		"size": 146,
+		"mktgs": ["Asia.9W", "Asia.CI", "Asia.CZ", "Asia.EY", "Asia.KE", "Asia.KL", "Asia.KQ", "Asia.MF", "Asia.MH", "Asia.MI", "Asia.MU", "Asia.NH", "Asia.SQ"]
+	}, {
+		"name": "Europe.JP",
+		"size": 145,
+		"mktgs": ["Europe.LH", "Europe.LO", "Europe.LX", "Europe.OS", "Europe.SK", "Europe.SN", "Europe.SU", "Europe.TK", "Europe.YM"]
+	}, {
+		"name": "Europe.JK",
+		"size": 145,
+		"mktgs": ["Europe.AC", "Europe.CO", "Europe.OU", "Europe.SN", "Europe.TG", "Europe.UA"]
+	}, {
+		"name": "Asia.9R",
+		"size": 143,
+		"mktgs": ["Asia.AV"]
+	}, {
+		"name": "SouthAmerica.9R",
+		"size": 143,
+		"mktgs": ["SouthAmerica.AV"]
+	}, {
+		"name": "Asia.WY",
+		"size": 142,
+		"mktgs": ["Asia.QR", "Asia.RJ", "Asia.UL"]
+	}, {
+		"name": "Europe.MT",
+		"size": 137,
+		"mktgs": ["Europe.DE"]
+	}, {
+		"name": "NorthAmerica.VW",
+		"size": 135,
+		"mktgs": ["NorthAmerica.MX"]
+	}, {
+		"name": "Europe.JU",
+		"size": 135,
+		"mktgs": ["Europe.AB", "Europe.AF", "Europe.AZ", "Europe.EY", "Europe.JA", "Europe.JP", "Europe.KL", "Europe.RO", "Europe.SU"]
+	}, {
+		"name": "Africa.HM",
+		"size": 131,
+		"mktgs": ["Africa.AB", "Africa.CX", "Africa.EY", "Africa.SA"]
+	}, {
+		"name": "Asia.AI",
+		"size": 127,
+		"mktgs": ["Asia.LH", "Asia.MS", "Asia.OZ", "Asia.SA"]
+	}, {
+		"name": "Europe.S4",
+		"size": 127,
+		"mktgs": ["Europe.NT", "Europe.TP", "Europe.ZI"]
+	}, {
+		"name": "Africa.AT",
+		"size": 116,
+		"mktgs": ["Africa.DT", "Africa.EY", "Africa.IB", "Africa.SN", "Africa.SU", "Africa.TK"]
+	}, {
+		"name": "Rest.KE",
+		"size": 115,
+		"mktgs": ["Rest.AF", "Rest.GA", "Rest.KL", "Rest.KQ", "Rest.OK", "Rest.SV"]
+	}, {
+		"name": "Europe.2N",
+		"size": 104,
+		"mktgs": ["Europe.SK"]
+	}, {
+		"name": "Oceania.PC",
+		"size": 95,
+		"mktgs": ["Oceania.AB", "Oceania.KL"]
+	}, {
+		"name": "Asia.PC",
+		"size": 95,
+		"mktgs": ["Asia.AB", "Asia.KL"]
+	}, {
+		"name": "Rest.BR",
+		"size": 88,
+		"mktgs": ["Rest.CA", "Rest.HU", "Rest.HX", "Rest.NH", "Rest.OZ", "Rest.SC", "Rest.SQ"]
+	}, {
+		"name": "Asia.RJ",
+		"size": 87,
+		"mktgs": ["Asia.AA", "Asia.AB", "Asia.GF", "Asia.IB", "Asia.IG", "Asia.MH", "Asia.RB", "Asia.S7", "Asia.US"]
+	}, {
+		"name": "Europe.BX",
+		"size": 84,
+		"mktgs": ["Europe.OZ"]
+	}, {
+		"name": "Europe.KM",
+		"size": 84,
+		"mktgs": ["Europe.AF", "Europe.EY", "Europe.LH", "Europe.OK", "Europe.OS"]
+	}, {
+		"name": "SouthAmerica.AR",
+		"size": 77,
+		"mktgs": ["SouthAmerica.AF", "SouthAmerica.KL", "SouthAmerica.UX"]
+	}, {
+		"name": "Asia.LY",
+		"size": 76,
+		"mktgs": ["Asia.CA", "Asia.IB", "Asia.LX", "Asia.S7", "Asia.TG", "Asia.VN"]
+	}, {
+		"name": "Europe.8Z",
+		"size": 75,
+		"mktgs": ["Europe.3Y", "Europe.6X", "Europe.7S", "Europe.9S"]
+	}, {
+		"name": "NorthAmerica.TA",
+		"size": 73,
+		"mktgs": ["NorthAmerica.AC", "NorthAmerica.AV", "NorthAmerica.IB", "NorthAmerica.LH", "NorthAmerica.UA", "NorthAmerica.US"]
+	}, {
+		"name": "SouthAmerica.2K",
+		"size": 71,
+		"mktgs": ["SouthAmerica.AV"]
+	}, {
+		"name": "Europe.OV",
+		"size": 70,
+		"mktgs": ["Europe.AF", "Europe.B2", "Europe.KL", "Europe.SK", "Europe.SN", "Europe.SU"]
+	}, {
+		"name": "Rest.7S",
+		"size": 68,
+		"mktgs": ["Rest.3Y", "Rest.3Z", "Rest.4Z", "Rest.5Y", "Rest.6X", "Rest.6Y", "Rest.7N", "Rest.7X", "Rest.7Z", "Rest.8Z", "Rest.9S"]
+	}, {
+		"name": "Europe.SB",
+		"size": 66,
+		"mktgs": ["Europe.AF", "Europe.KE", "Europe.NZ", "Europe.QF"]
+	}, {
+		"name": "Europe.TN",
+		"size": 65,
+		"mktgs": ["Europe.AF", "Europe.QF"]
+	}, {
+		"name": "SouthAmerica.H2",
+		"size": 65,
+		"mktgs": ["SouthAmerica.AV", "SouthAmerica.TA"]
+	}, {
+		"name": "Africa.MN",
+		"size": 64,
+		"mktgs": ["Africa.KQ"]
+	}, {
+		"name": "Asia.SV",
+		"size": 62,
+		"mktgs": ["Asia.AF", "Asia.AZ", "Asia.GF", "Asia.UX"]
+	}, {
+		"name": "NorthAmerica.CM",
+		"size": 61,
+		"mktgs": ["NorthAmerica.AV", "NorthAmerica.KL", "NorthAmerica.OZ"]
+	}, {
+		"name": "Oceania.FJ",
+		"size": 61,
+		"mktgs": ["Oceania.AA", "Oceania.CX", "Oceania.IE", "Oceania.NZ", "Oceania.QF"]
+	}, {
+		"name": "SouthAmerica.MJ",
+		"size": 60,
+		"mktgs": ["SouthAmerica.UL"]
+	}, {
+		"name": "Oceania.TL",
+		"size": 59,
+		"mktgs": ["Oceania.QF"]
+	}, {
+		"name": "Asia.TL",
+		"size": 59,
+		"mktgs": ["Asia.QF"]
+	}, {
+		"name": "Europe.NT",
+		"size": 58,
+		"mktgs": ["Europe.S4", "Europe.UX"]
+	}, {
+		"name": "NorthAmerica.KP",
+		"size": 56,
+		"mktgs": ["NorthAmerica.ET"]
+	}, {
+		"name": "Africa.KP",
+		"size": 56,
+		"mktgs": ["Africa.ET"]
+	}, {
+		"name": "Rest.WM",
+		"size": 56,
+		"mktgs": ["Rest.AF", "Rest.TX"]
+	}, {
+		"name": "Asia.GF",
+		"size": 54,
+		"mktgs": ["Asia.MS", "Asia.RJ", "Asia.SV", "Asia.TG"]
+	}, {
+		"name": "Asia.BM",
+		"size": 50,
+		"mktgs": ["Asia.LH", "Asia.SN"]
+	}, {
+		"name": "Europe.BM",
+		"size": 50,
+		"mktgs": ["Europe.LH", "Europe.SN"]
+	}, {
+		"name": "Rest.U6",
+		"size": 46,
+		"mktgs": ["Rest.7J", "Rest.J2", "Rest.OK", "Rest.QN", "Rest.S7"]
+	}, {
+		"name": "Rest.7X",
+		"size": 46,
+		"mktgs": ["Rest.2X", "Rest.6X", "Rest.7S"]
+	}, {
+		"name": "Asia.BI",
+		"size": 45,
+		"mktgs": ["Asia.GA", "Asia.KA", "Asia.MH", "Asia.TG"]
+	}, {
+		"name": "Europe.TF",
+		"size": 44,
+		"mktgs": ["Europe.AY"]
+	}, {
+		"name": "Rest.7I",
+		"size": 43,
+		"mktgs": ["Rest.KL"]
+	}, {
+		"name": "Europe.F7",
+		"size": 40,
+		"mktgs": ["Europe.AB"]
+	}, {
+		"name": "Europe.EN",
+		"size": 40,
+		"mktgs": ["Europe.LH"]
+	}, {
+		"name": "Asia.ME",
+		"size": 39,
+		"mktgs": ["Asia.AC", "Asia.AF", "Asia.AZ", "Asia.CY", "Asia.EY", "Asia.QR", "Asia.SV"]
+	}, {
+		"name": "Asia.9S",
+		"size": 38,
+		"mktgs": ["Asia.2Y", "Asia.4Y", "Asia.4Z", "Asia.5Y", "Asia.5Z", "Asia.6Y", "Asia.7S", "Asia.8Z", "Asia.YZ"]
+	}, {
+		"name": "Asia.3K",
+		"size": 38,
+		"mktgs": ["Asia.QF"]
+	}, {
+		"name": "Rest.CI",
+		"size": 37,
+		"mktgs": ["Rest.GA", "Rest.KL", "Rest.OK"]
+	}, {
+		"name": "Europe.FB",
+		"size": 36,
+		"mktgs": ["Europe.AF", "Europe.AZ", "Europe.CY", "Europe.IB", "Europe.KL", "Europe.OK", "Europe.SU"]
+	}, {
+		"name": "Europe.FI",
+		"size": 34,
+		"mktgs": ["Europe.AY", "Europe.SK", "Europe.SU"]
+	}, {
+		"name": "Rest.UN",
+		"size": 33,
+		"mktgs": ["Rest.BT", "Rest.OS", "Rest.SQ", "Rest.ZI"]
+	}, {
+		"name": "Rest.8X",
+		"size": 32,
+		"mktgs": ["Rest.2X", "Rest.6X", "Rest.7N", "Rest.7Z"]
+	}, {
+		"name": "Europe.7N",
+		"size": 30,
+		"mktgs": ["Europe.2X", "Europe.6X", "Europe.6Z", "Europe.7S", "Europe.7X", "Europe.8X", "Europe.9Z"]
+	}, {
+		"name": "SouthAmerica.PZ",
+		"size": 29,
+		"mktgs": ["SouthAmerica.JJ", "SouthAmerica.LA"]
+	}, {
+		"name": "Rest.9B",
+		"size": 28,
+		"mktgs": ["Rest.KL", "Rest.RJ"]
+	}, {
+		"name": "Oceania.PX",
+		"size": 28,
+		"mktgs": ["Oceania.IE", "Oceania.QF"]
+	}, {
+		"name": "NorthAmerica.LR",
+		"size": 26,
+		"mktgs": ["NorthAmerica.AV", "NorthAmerica.UA"]
+	}, {
+		"name": "Europe.XM",
+		"size": 26,
+		"mktgs": ["Europe.AF"]
+	}, {
+		"name": "Africa.PW",
+		"size": 23,
+		"mktgs": ["Africa.KQ"]
+	}, {
+		"name": "Europe.B2",
+		"size": 22,
+		"mktgs": ["Europe.AF", "Europe.AY", "Europe.BT", "Europe.KL", "Europe.LO", "Europe.OK", "Europe.U6"]
+	}, {
+		"name": "Europe.CY",
+		"size": 21,
+		"mktgs": ["Europe.AF", "Europe.FB", "Europe.KL", "Europe.ME"]
+	}, {
+		"name": "Africa.8J",
+		"size": 19,
+		"mktgs": ["Africa.SS"]
+	}, {
+		"name": "Europe.J2",
+		"size": 18,
+		"mktgs": ["Europe.AF", "Europe.OK", "Europe.U6"]
+	}, {
+		"name": "Asia.MF",
+		"size": 18,
+		"mktgs": ["Asia.KL"]
+	}, {
+		"name": "Asia.KC",
+		"size": 18,
+		"mktgs": ["Asia.EY", "Asia.OZ", "Asia.TK"]
+	}, {
+		"name": "Asia.HU",
+		"size": 18,
+		"mktgs": ["Asia.AB", "Asia.B7", "Asia.BR", "Asia.EY", "Asia.MA"]
+	}, {
+		"name": "Rest.ZD",
+		"size": 17,
+		"mktgs": ["Rest.UU"]
+	}, {
+		"name": "Europe.IG",
+		"size": 17,
+		"mktgs": ["Europe.AB", "Europe.BA"]
+	}, {
+		"name": "Oceania.NF",
+		"size": 16,
+		"mktgs": ["Oceania.IE", "Oceania.NZ", "Oceania.QF"]
+	}, {
+		"name": "Asia.ZH",
+		"size": 16,
+		"mktgs": ["Asia.B7", "Asia.MI", "Asia.OZ", "Asia.SQ"]
+	}, {
+		"name": "Europe.A9",
+		"size": 14,
+		"mktgs": ["Europe.AF", "Europe.KL", "Europe.OS"]
+	}, {
+		"name": "Rest.B7",
+		"size": 14,
+		"mktgs": ["Rest.CA", "Rest.HU", "Rest.SC", "Rest.ZH"]
+	}, {
+		"name": "NorthAmerica.HA",
+		"size": 14,
+		"mktgs": ["NorthAmerica.VA"]
+	}, {
+		"name": "Rest.2X",
+		"size": 13,
+		"mktgs": ["Rest.6X", "Rest.7N", "Rest.7X", "Rest.7Z", "Rest.8X"]
+	}, {
+		"name": "Europe.C3",
+		"size": 12,
+		"mktgs": ["Europe.OU"]
+	}, {
+		"name": "Europe.YM",
+		"size": 12,
+		"mktgs": ["Europe.AZ", "Europe.JP", "Europe.OS"]
+	}, {
+		"name": "Africa.WB",
+		"size": 12,
+		"mktgs": ["Africa.KQ", "Africa.SA"]
+	}, {
+		"name": "Rest.3Y",
+		"size": 12,
+		"mktgs": ["Rest.2Y", "Rest.4Y", "Rest.5Y", "Rest.5Z", "Rest.7S", "Rest.8Z", "Rest.YZ"]
+	}, {
+		"name": "Rest.2J",
+		"size": 12,
+		"mktgs": ["Rest.HF", "Rest.KQ"]
+	}, {
+		"name": "Africa.SW",
+		"size": 11,
+		"mktgs": ["Africa.KQ"]
+	}, {
+		"name": "Europe.6Y",
+		"size": 11,
+		"mktgs": ["Europe.0Z", "Europe.2Y", "Europe.6Z", "Europe.7S", "Europe.9S", "Europe.9Z"]
+	}, {
+		"name": "Europe.6Z",
+		"size": 10,
+		"mktgs": ["Europe.6Y", "Europe.7N", "Europe.7Z", "Europe.9Z"]
+	}, {
+		"name": "Asia.SC",
+		"size": 10,
+		"mktgs": ["Asia.B7", "Asia.BR", "Asia.OZ"]
+	}, {
+		"name": "NorthAmerica.IS",
+		"size": 10,
+		"mktgs": ["NorthAmerica.W2"]
+	}, {
+		"name": "Europe.UU",
+		"size": 10,
+		"mktgs": ["Europe.D6", "Europe.MD", "Europe.ZD"]
+	}, {
+		"name": "NorthAmerica.2Q",
+		"size": 9,
+		"mktgs": ["NorthAmerica.DY"]
+	}, {
+		"name": "Asia.VF",
+		"size": 8,
+		"mktgs": ["Asia.QF"]
+	}, {
+		"name": "NorthAmerica.5Y",
+		"size": 8,
+		"mktgs": ["NorthAmerica.3Y", "NorthAmerica.3Z", "NorthAmerica.5Z", "NorthAmerica.7S", "NorthAmerica.9S", "NorthAmerica.YZ"]
+	}, {
+		"name": "NorthAmerica.CO",
+		"size": 8,
+		"mktgs": ["NorthAmerica.JK"]
+	}, {
+		"name": "Asia.KU",
+		"size": 8,
+		"mktgs": ["Asia.SV"]
+	}, {
+		"name": "Asia.EC",
+		"size": 8,
+		"mktgs": ["Asia.BA"]
+	}, {
+		"name": "Asia.IY",
+		"size": 8,
+		"mktgs": ["Asia.MS", "Asia.SV"]
+	}, {
+		"name": "Rest.HX",
+		"size": 8,
+		"mktgs": ["Rest.BR"]
+	}, {
+		"name": "Rest.2Y",
+		"size": 7,
+		"mktgs": ["Rest.3Y", "Rest.6Y", "Rest.9S"]
+	}, {
+		"name": "Rest.YZ",
+		"size": 7,
+		"mktgs": ["Rest.3Y", "Rest.3Z", "Rest.5Y", "Rest.8Z", "Rest.9S"]
+	}, {
+		"name": "Rest.NN",
+		"size": 7,
+		"mktgs": ["Rest.U6"]
+	}, {
+		"name": "Europe.AP",
+		"size": 6,
+		"mktgs": ["Europe.AZ"]
+	}, {
+		"name": "Rest.3Z",
+		"size": 6,
+		"mktgs": ["Rest.4Z", "Rest.5Y", "Rest.5Z", "Rest.7S", "Rest.YZ"]
+	}, {
+		"name": "Asia.C3",
+		"size": 6,
+		"mktgs": ["Asia.OU"]
+	}, {
+		"name": "Rest.U9",
+		"size": 6,
+		"mktgs": ["Rest.OK"]
+	}, {
+		"name": "Rest.D2",
+		"size": 6,
+		"mktgs": ["Rest.U6"]
+	}, {
+		"name": "SouthAmerica.WK",
+		"size": 4,
+		"mktgs": ["SouthAmerica.LX"]
+	}, {
+		"name": "Asia.XY",
+		"size": 4,
+		"mktgs": ["Asia.EY"]
+	}, {
+		"name": "Europe.4Y",
+		"size": 4,
+		"mktgs": ["Europe.3Y", "Europe.9S"]
+	}, {
+		"name": "Europe.DV",
+		"size": 4,
+		"mktgs": ["Europe.U6"]
+	}, {
+		"name": "Europe.JA",
+		"size": 4,
+		"mktgs": ["Europe.JU"]
+	}, {
+		"name": "Europe.WK",
+		"size": 4,
+		"mktgs": ["Europe.LX"]
+	}, {
+		"name": "Asia.PR",
+		"size": 4,
+		"mktgs": ["Asia.GA"]
+	}, {
+		"name": "Rest.NX",
+		"size": 4,
+		"mktgs": ["Rest.OZ"]
+	}, {
+		"name": "Rest.RT",
+		"size": 4,
+		"mktgs": ["Rest.EY"]
+	}, {
+		"name": "Asia.DV",
+		"size": 4,
+		"mktgs": ["Asia.U6"]
+	}, {
+		"name": "Asia.HY",
+		"size": 4,
+		"mktgs": ["Asia.BT"]
+	}, {
+		"name": "Asia.IO",
+		"size": 4,
+		"mktgs": ["Asia.U6"]
+	}, {
+		"name": "NorthAmerica.DV",
+		"size": 4,
+		"mktgs": ["NorthAmerica.U6"]
+	}, {
+		"name": "Europe.OL",
+		"size": 3,
+		"mktgs": ["Europe.O2"]
+	}, {
+		"name": "Rest.9Z",
+		"size": 3,
+		"mktgs": ["Rest.6Y", "Rest.6Z"]
+	}, {
+		"name": "Europe.VY",
+		"size": 3,
+		"mktgs": ["Europe.IB"]
+	}, {
+		"name": "Europe.2B",
+		"size": 2,
+		"mktgs": ["Europe.7N"]
+	}, {
+		"name": "Asia.DD",
+		"size": 2,
+		"mktgs": ["Asia.TG"]
+	}, {
+		"name": "Europe.I9",
+		"size": 2,
+		"mktgs": ["Europe.IG"]
+	}, {
+		"name": "Europe.MP",
+		"size": 2,
+		"mktgs": ["Europe.KQ"]
+	}, {
+		"name": "Europe.RB",
+		"size": 2,
+		"mktgs": ["Europe.SV"]
+	}, {
+		"name": "Europe.ZI",
+		"size": 2,
+		"mktgs": ["Europe.UN"]
+	}, {
+		"name": "NorthAmerica.7F",
+		"size": 2,
+		"mktgs": ["NorthAmerica.GL"]
+	}, {
+		"name": "NorthAmerica.GL",
+		"size": 2,
+		"mktgs": ["NorthAmerica.7F"]
+	}, {
+		"name": "NorthAmerica.I9",
+		"size": 2,
+		"mktgs": ["NorthAmerica.IG"]
+	}, {
+		"name": "Oceania.IE",
+		"size": 2,
+		"mktgs": ["Oceania.NF"]
+	}, {
+		"name": "Rest.0Z",
+		"size": 2,
+		"mktgs": ["Rest.6Y", "Rest.6Z"]
+	}, {
+		"name": "Rest.LZ",
+		"size": 2,
+		"mktgs": ["Rest.L9"]
+	}, {
+		"name": "Africa.4Z",
+		"size": 2,
+		"mktgs": ["Africa.3Z", "Africa.7S"]
+	}, {
+		"name": "Africa.MD",
+		"size": 2,
+		"mktgs": ["Africa.TG"]
+	}, {
+		"name": "Africa.TU",
+		"size": 2,
+		"mktgs": ["Africa.ME"]
+	}, {
+		"name": "Asia.4Q",
+		"size": 2,
+		"mktgs": ["Asia.GF"]
+	}, {
+		"name": "Europe.GL",
+		"size": 2,
+		"mktgs": ["Europe.7F"]
+	}, {
+		"name": "Europe.BD",
+		"size": 1,
+		"mktgs": ["Europe.KM"]
+	}, {
+		"name": "Europe.HF",
+		"size": 1,
+		"mktgs": ["Europe.2J"]
+	}, {
+		"name": "Rest.WZ",
+		"size": 1,
+		"mktgs": ["Rest.0E"]
+	}, {
+		"name": "Rest.EB",
+		"size": 1,
+		"mktgs": ["Rest.SS"]
+	}, {
+		"name": "Rest.0E",
+		"size": 1,
+		"mktgs": ["Rest.WZ"]
+	}
+]
